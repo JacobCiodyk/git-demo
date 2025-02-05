@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-Birds of a feather, we should stick together, I know
-I said I'd never think I wasn't better alone
-=======
-abc
+
+Birds of a feather, we should sticktogether, I know
+I said I'd never think I wasn't bett
 
 
 
@@ -11,6 +9,3 @@ march as one
 dont look back 
 odens
 
-
-tu du du du du
->>>>>>> 454305304f70658d15a4979d0babbf50b5bb08d4

@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Now he's thinkin' 'bout me every night, oh
 Is it that sweet? I guess so
 Say you can't sleep, baby, I know
+=======
+Birds of a feather, we should stick together, I know
+I said I'd never think I wasn't better alone
+>>>>>>> feature

@@ -1,3 +1,3 @@
 # git-demo
 
-some content
+demo for testing git commands
